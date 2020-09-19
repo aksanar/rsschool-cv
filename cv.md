@@ -3,7 +3,9 @@
 3. My goal is to become a software developer. I an a Sales Rep but I've always been interested in coding. I like learning new things and I am fast learner.
 4. I know the basics of HTML, CSS, JavaScript and Git.
 5. Code example:
-    function bmi(weight, height) {
+     
+     function bmi(weight, height) {
+         
         let result = weight / (height * height);
 
         if (result <= 18.5) return "Underweight";
