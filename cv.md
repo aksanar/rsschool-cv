@@ -17,3 +17,11 @@
             else return "Obese";
         }
 ```
+6. - 
+7. Education: 
+- RS School
+- Codacademy
+- Coursera
+- Khanacademy
+- Htmlacademy
+
