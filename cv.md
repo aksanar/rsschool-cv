@@ -24,4 +24,5 @@
 - Coursera
 - Khanacademy
 - Htmlacademy
+8. English: fluent (IELTS 7.5)
 
