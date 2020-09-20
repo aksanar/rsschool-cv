@@ -1,0 +1,14 @@
+* {
+    background-color: oldlace;
+}
+
+.container{
+    max-width: 1024px;
+}
+
+.cv-photo {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+
